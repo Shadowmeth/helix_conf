@@ -1,5 +1,5 @@
 [language-server]
-clangd = { command = "clangd", args = ["--header-insertion=never"] }
+clangd = { command = "clangd", args = ["--header-insertion=never", "--fallback-style=llvm", "--experimental-modules-support"] }
 cmake-language-server = { command = "cmake-language-server" }
 csharp-ls = { command = "csharp-ls" }
 
