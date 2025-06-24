@@ -9,7 +9,7 @@ scrolloff = 10
 auto-format = false
 text-width = 120
 completion-timeout = 100
-completion-trigger-len = 1
+completion-trigger-len = 2
 insert-final-newline = false
 end-of-line-diagnostics = "disable"
 
